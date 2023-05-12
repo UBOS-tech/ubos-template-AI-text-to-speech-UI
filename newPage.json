@@ -17,7 +17,7 @@
                         "detachFromLayout": true,
                         "widgetId": "0",
                         "topRow": 0,
-                        "bottomRow": 1320,
+                        "bottomRow": 1290,
                         "containerStyle": "none",
                         "snapRows": 125,
                         "parentRowSpace": 1,
@@ -80,8 +80,8 @@
                                                 "parentRowSpace": 10,
                                                 "leftColumn": 0,
                                                 "rightColumn": 37,
-                                                "topRow": 20,
-                                                "bottomRow": 26,
+                                                "topRow": 18,
+                                                "bottomRow": 25,
                                                 "parentId": "8fz14xffe8",
                                                 "dynamicBindingPathList": [],
                                                 "dynamicTriggerPathList": [],
@@ -119,7 +119,7 @@
                                                 "leftColumn": 0,
                                                 "rightColumn": 64,
                                                 "topRow": 27,
-                                                "bottomRow": 76,
+                                                "bottomRow": 61,
                                                 "parentId": "8fz14xffe8",
                                                 "dynamicBindingPathList": [],
                                                 "dynamicTriggerPathList": [],
@@ -150,8 +150,8 @@
                                                 "parentRowSpace": 10,
                                                 "leftColumn": 0,
                                                 "rightColumn": 20,
-                                                "topRow": 76,
-                                                "bottomRow": 81,
+                                                "topRow": 62,
+                                                "bottomRow": 67,
                                                 "parentId": "8fz14xffe8",
                                                 "dynamicBindingPathList": [],
                                                 "dynamicTriggerPathList": [
@@ -235,7 +235,7 @@
                                         "leftColumn": 0,
                                         "rightColumn": 377.25,
                                         "topRow": 0,
-                                        "bottomRow": 830,
+                                        "bottomRow": 690,
                                         "parentId": "4i9kcuez5g"
                                     }
                                 ],
@@ -255,10 +255,11 @@
                                 "leftColumn": 0,
                                 "rightColumn": 64,
                                 "topRow": 0,
-                                "bottomRow": 100,
+                                "bottomRow": 73,
                                 "parentId": "0",
                                 "dynamicBindingPathList": [],
-                                "dynamicTriggerPathList": []
+                                "dynamicTriggerPathList": [],
+                                "shouldScrollContents": true
                             }
                         ],
                         "dynamicTriggerPathList": []
