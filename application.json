@@ -1,0 +1,50 @@
+{
+    "_id": "645b46954ca81c36a10fbeb3",
+    "name": "text-to-speech",
+    "slug": "text-to-speech",
+    "organizationId": "Org",
+    "isPublic": true,
+    "isMenu": false,
+    "createdAt": "2023-05-10T07:24:05.938Z",
+    "updatedAt": "2023-05-10T07:24:05.938Z",
+    "deleted": false,
+    "pages": [
+        {
+            "_id": "home",
+            "isDefault": true
+        }
+    ],
+    "policies": [
+        {
+            "permission": "makePublic:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "read:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "publish:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:applications",
+            "groups": [],
+            "users": []
+        }
+    ],
+    "global_setting": {
+        "css": "https://nodered-0709-644797ab65e54e1000000069.ubos.tech/css"
+    },
+    "gitApplicationMetadata": {
+        "browserSupportedRemoteUrl": "https://github.com/UBOS-tech/ubos-template-AI-text-to-speech-UI",
+        "defaultApplicationId": "text-to-speech",
+        "defaultBranchName": "main",
+        "isRepoPrivate": true,
+        "remoteUrl": "git@github.com:UBOS-tech/ubos-template-AI-text-to-speech-UI.git",
+        "repoName": "ubos-template-AI-text-to-speech-UI"
+    }
+}
