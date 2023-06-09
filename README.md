@@ -12,6 +12,13 @@ Text to speech
   •
   <a href="https://github.com/UBOS-tech">GitHub</a>
   </h3>
+
+<div align="center">
+  
+  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/?templateId=646319d03023c6001004f3d9)
+  [![Demo](https://ubos.tech/wp-content/uploads/2023/06/Group-19.png)](https://youtu.be/7hfR5aszyrw)
+  
+</div>
   
 Welcome to our Text-to-Speech Converter!
 
