@@ -5,6 +5,7 @@
     "organizationId": "Org",
     "isPublic": true,
     "isMenu": false,
+    "isShowPlatformTag": true,
     "createdAt": "2023-05-10T07:24:05.938Z",
     "updatedAt": "2023-05-10T07:24:05.938Z",
     "deleted": false,
